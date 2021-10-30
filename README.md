@@ -1,2 +1,2 @@
 # express-typescript
-Boilerplate code for creating an Express appliction in TypeScript.
+Boilerplate code for creating an Express application in TypeScript.
